@@ -1,0 +1,1622 @@
+{
+  "version": 1,
+  "width": 273,
+  "height": 74,
+  "duration": 82.369973,
+  "command": "/bin/bash",
+  "title": "Git download PoC",
+  "env": {
+    "TERM": "rxvt-unicode-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.020606,
+      "bash: wicd-cli: Kommando nicht gefunden.\r\n"
+    ],
+    [
+      0.011270,
+      "\u001b]0;gehaxelt@LagTop:/var/www/hackbed\u0007"
+    ],
+    [
+      0.000877,
+      "[gehaxelt@LagTop hackbed]$ "
+    ],
+    [
+      0.911563,
+      "l"
+    ],
+    [
+      0.063961,
+      "s"
+    ],
+    [
+      0.400700,
+      "\r\n"
+    ],
+    [
+      0.008555,
+      "insgesamt 28K\r\n"
+    ],
+    [
+      0.000050,
+      "drwxr-xr-x  3 gehaxelt users 4,0K 28. Jul 13:07 \u001b[0m\u001b[36m.\u001b[0m\r\n"
+    ],
+    [
+      0.000042,
+      "drwxrwxr-x 21 gehaxelt users 4,0K 28. Jul 13:03 \u001b[36m..\u001b[0m\r\n"
+    ],
+    [
+      0.000040,
+      "-rw-r--r--  1 gehaxelt users 6,1K 28. Jul 13:07 \u001b[00mgitdlpoc\u001b[0m\r\n"
+    ],
+    [
+      0.000038,
+      "-rw-r--r--  1 gehaxelt users   17 28. Jul 13:07 \u001b[00m.htaccess\u001b[0m\r\n"
+    ],
+    [
+      0.000040,
+      "-rw-r--r--  1 gehaxelt users    3 28. Jul 13:04 \u001b[32mindex.html\u001b[0m\r\n"
+    ],
+    [
+      0.000029,
+      "drwxr-xr-x  4 gehaxelt users 4,0K 28. Jul 13:05 \u001b[36mtestrepo\u001b[0m\r\n"
+    ],
+    [
+      0.001182,
+      "\u001b]0;gehaxelt@LagTop:/var/www/hackbed\u0007[gehaxelt@LagTop hackbed]$ "
+    ],
+    [
+      0.421257,
+      "c"
+    ],
+    [
+      0.191699,
+      "a"
+    ],
+    [
+      0.112175,
+      "t"
+    ],
+    [
+      0.080170,
+      " "
+    ],
+    [
+      0.168117,
+      "."
+    ],
+    [
+      0.223992,
+      "h"
+    ],
+    [
+      0.087962,
+      "t"
+    ],
+    [
+      0.080238,
+      "access "
+    ],
+    [
+      0.392099,
+      "\r\n"
+    ],
+    [
+      0.001720,
+      "Options -Indexes\r\n"
+    ],
+    [
+      0.000512,
+      "\u001b]0;gehaxelt@LagTop:/var/www/hackbed\u0007[gehaxelt@LagTop hackbed]$ "
+    ],
+    [
+      0.717524,
+      "c"
+    ],
+    [
+      0.071670,
+      "d"
+    ],
+    [
+      0.184261,
+      " "
+    ],
+    [
+      0.239915,
+      "t"
+    ],
+    [
+      0.048097,
+      "e"
+    ],
+    [
+      0.160113,
+      "strepo/"
+    ],
+    [
+      0.400347,
+      "\r\n\u001b]0;gehaxelt@LagTop:/var/www/hackbed/testrepo\u0007[gehaxelt@LagTop testrepo]$ "
+    ],
+    [
+      0.447515,
+      "l"
+    ],
+    [
+      0.048058,
+      "s"
+    ],
+    [
+      0.296287,
+      "\r\n"
+    ],
+    [
+      0.008819,
+      "insgesamt 32K\r\n"
+    ],
+    [
+      0.000076,
+      "drwxr-xr-x 4 gehaxelt users 4,0K 28. Jul 13:05 \u001b[0m\u001b[36m.\u001b[0m\r\n"
+    ],
+    [
+      0.000056,
+      "drwxr-xr-x 3 gehaxelt users 4,0K 28. Jul 13:07 \u001b[36m..\u001b[0m\r\n"
+    ],
+    [
+      0.000037,
+      "-rw-r--r-- 1 gehaxelt users    2 28. Jul 13:05 \u001b[00ma\u001b[0m\r\n"
+    ],
+    [
+      0.000050,
+      "-rw-r--r-- 1 gehaxelt users    2 28. Jul 13:05 \u001b[00mb\u001b[0m\r\n"
+    ],
+    [
+      0.000030,
+      "-rw-r--r-- 1 gehaxelt users    2 28. Jul 13:05 \u001b[00mc\u001b[0m\r\n"
+    ],
+    [
+      0.000037,
+      "drwxr-xr-x 8 gehaxelt users 4,0K 28. Jul 13:06 \u001b[36m.git\u001b[0m\r\n"
+    ],
+    [
+      0.000060,
+      "-rw-r--r-- 1 gehaxelt users    4 28. Jul 13:05 \u001b[00mpassword\u001b[0m\r\n"
+    ],
+    [
+      0.000036,
+      "drwxr-xr-x 2 gehaxelt users 4,0K 28. Jul 13:06 \u001b[36msecret\u001b[0m\r\n"
+    ],
+    [
+      0.001017,
+      "\u001b]0;gehaxelt@LagTop:/var/www/hackbed/testrepo\u0007[gehaxelt@LagTop testrepo]$ "
+    ],
+    [
+      1.557396,
+      "c"
+    ],
+    [
+      0.207831,
+      "a"
+    ],
+    [
+      0.096213,
+      "t"
+    ],
+    [
+      0.120034,
+      " "
+    ],
+    [
+      0.152016,
+      "a"
+    ],
+    [
+      0.375900,
+      " "
+    ],
+    [
+      0.247890,
+      "b"
+    ],
+    [
+      0.112098,
+      " "
+    ],
+    [
+      0.199892,
+      "c"
+    ],
+    [
+      0.183976,
+      " "
+    ],
+    [
+      0.680237,
+      "p"
+    ],
+    [
+      0.087894,
+      "a"
+    ],
+    [
+      0.080065,
+      "s"
+    ],
+    [
+      0.128326,
+      "sword "
+    ],
+    [
+      0.527674,
+      "s"
+    ],
+    [
+      0.071983,
+      "e"
+    ],
+    [
+      0.160228,
+      "cret/"
+    ],
+    [
+      0.431709,
+      "p"
+    ],
+    [
+      0.088111,
+      "w"
+    ],
+    [
+      0.144233,
+      "\u0007s"
+    ],
+    [
+      1.263756,
+      " "
+    ],
+    [
+      0.720063,
+      "s"
+    ],
+    [
+      0.072007,
+      "e"
+    ],
+    [
+      0.240289,
+      "cret/"
+    ],
+    [
+      0.320003,
+      "\u0007pws"
+    ],
+    [
+      0.719749,
+      "t"
+    ],
+    [
+      0.160444,
+      "ore "
+    ],
+    [
+      0.839866,
+      "\r\n"
+    ],
+    [
+      0.001747,
+      "a\r\nb\r\nc\r\nkey\r\npassword2\r\npassword\r\n"
+    ],
+    [
+      0.000617,
+      "\u001b]0;gehaxelt@LagTop:/var/www/hackbed/testrepo\u0007[gehaxelt@LagTop testrepo]$ "
+    ],
+    [
+      3.061411,
+      "l"
+    ],
+    [
+      0.055715,
+      "s"
+    ],
+    [
+      0.151985,
+      " "
+    ],
+    [
+      0.344276,
+      "."
+    ],
+    [
+      0.143849,
+      "g"
+    ],
+    [
+      0.112159,
+      "i"
+    ],
+    [
+      0.111749,
+      "t/"
+    ],
+    [
+      0.496778,
+      "\r\n"
+    ],
+    [
+      0.007965,
+      "insgesamt 52K\r\n"
+    ],
+    [
+      0.000050,
+      "drwxr-xr-x  8 gehaxelt users 4,0K 28. Jul 13:06 \u001b[0m\u001b[36m.\u001b[0m\r\n"
+    ],
+    [
+      0.000056,
+      "drwxr-xr-x  4 gehaxelt users 4,0K 28. Jul 13:05 \u001b[36m..\u001b[0m\r\n"
+    ],
+    [
+      0.000028,
+      "drwxr-xr-x  2 gehaxelt users 4,0K 28. Jul 13:05 \u001b[36mbranches\u001b[0m\r\n"
+    ],
+    [
+      0.000057,
+      "-rw-r--r--  1 gehaxelt users   15 28. Jul 13:06 \u001b[00mCOMMIT_EDITMSG\u001b[0m\r\n"
+    ],
+    [
+      0.000045,
+      "-rw-r--r--  1 gehaxelt users   92 28. Jul 13:05 \u001b[00mconfig\u001b[0m\r\n"
+    ],
+    [
+      0.000035,
+      "-rw-r--r--  1 gehaxelt users   73 28. Jul 13:05 \u001b[00mdescription\u001b[0m\r\n"
+    ],
+    [
+      0.000054,
+      "-rw-r--r--  1 gehaxelt users   23 28. Jul 13:05 \u001b[00mHEAD\u001b[0m\r\n"
+    ],
+    [
+      0.000026,
+      "drwxr-xr-x  2 gehaxelt users 4,0K 28. Jul 13:05 \u001b[36mhooks\u001b[0m\r\n"
+    ],
+    [
+      0.000048,
+      "-rw-r--r--  1 gehaxelt users  520 28. Jul 13:06 \u001b[00mindex\u001b[0m\r\n"
+    ],
+    [
+      0.000031,
+      "drwxr-xr-x  2 gehaxelt users 4,0K 28. Jul 13:05 \u001b[36minfo\u001b[0m\r\n"
+    ],
+    [
+      0.000039,
+      "drwxr-xr-x  3 gehaxelt users 4,0K 28. Jul 13:06 \u001b[36mlogs\u001b[0m\r\n"
+    ],
+    [
+      0.000027,
+      "drwxr-xr-x 16 gehaxelt users 4,0K 28. Jul 13:06 \u001b[36mobjects\u001b[0m\r\n"
+    ],
+    [
+      0.000035,
+      "drwxr-xr-x  4 gehaxelt users 4,0K 28. Jul 13:05 \u001b[36mrefs\u001b[0m\r\n"
+    ],
+    [
+      0.001059,
+      "\u001b]0;gehaxelt@LagTop:/var/www/hackbed/testrepo\u0007[gehaxelt@LagTop testrepo]$ "
+    ],
+    [
+      0.637804,
+      "t"
+    ],
+    [
+      0.096036,
+      "i"
+    ],
+    [
+      0.127944,
+      "g"
+    ],
+    [
+      0.528411,
+      "\r\n"
+    ],
+    [
+      0.029366,
+      "\u001b[?1049h\u001b[1;74r\u001b[m\u001b(B\u001b[4l\u001b[?7h\u001b[39;49m\u001b="
+    ],
+    [
+      0.010945,
+      "\u001b[39;49m\u001b[m\u001b(B\u001b[H\u001b[2J\u001b[74d\u001b[38;5;2m\u001b[J\u001b[H\u001b[;1m\u001b(B\u001b[38;5;7m\u001b[48;5;2m2015-07-28 13:06 Sebastian Gehaxelt o [master] Another commit\u001b[m\u001b(B\u001b[38;5;7m\u001b[48;5;2m\u001b[K\r\u001b[73d\u001b[;1m\u001b(B\u001b[38;5;7m\u001b[48;5;4m[main] 4db4b215ca5e1c6bcc8bdc5ad2d15d7c37091dd4 - commit 1 of 1\u001b[206X\u001b[270G100%\u001b[73;273H\u001b[39;49m\u001b[m\u001b(B"
+    ],
+    [
+      0.000323,
+      "\r\u001b[2d\u001b[38;5;4m2015-07-28 13:06\u001b[39;49m \u001b[38;5;2mSebastian Gehaxelt\u001b[39;49m \u001b[38;5;4mI\u001b[39;49m Initial commit\u001b[73;63H\u001b[;1m\u001b(B\u001b[38;5;7m\u001b[48;5;4m2\u001b[273G\u001b[39;49m\u001b[m\u001b(B"
+    ],
+    [
+      0.903194,
+      "\u001b[H\u001b[38;5;4m2015-07-28 13:06\u001b[39;49m \u001b[38;5;2mSebastian Gehaxelt\u001b[39;49m \u001b[38;5;4mo\u001b[39;49m \u001b[;1m\u001b(B\u001b[38;5;6m[master]\u001b[m\u001b(B Another commit\u001b[K\r\u001b[2d\u001b[;1m\u001b(B\u001b[38;5;7m\u001b[48;5;2m2015-07-28 13:06 Sebastian Gehaxelt I Initial commit\u001b[m\u001b(B\u001b[38;5;7m\u001b[48;5;2m\u001b[K\u001b[73;8H\u001b[;1m\u001b(B\u001b[38;5;7m\u001b[48;5;4m2f3f8f2bbc822a6e382c11907277d7d5270167fb\u001b[73;58H2\u001b[273G\u001b[39;49m\u001b[m\u001b(B"
+    ],
+    [
+      0.257686,
+      "\r\u001b[C\u001b[;1m\u001b(B\u001b[38;5;7m\u001b[48;5;4mdiff]\u001b[57X\u001b[270G  0\u001b[39;49m\u001b[m\u001b(B"
+    ],
+    [
+      0.005921,
+      "\u001b[H\u001b[;1m\u001b(B\u001b[38;5;7m\u001b[48;5;2mcommit 2f3f8f2bbc822a6e382c11907277d7d5270167fb\u001b[m\u001b(B\u001b[38;5;7m\u001b[48;5;2m\u001b[K\r\u001b[2d\u001b[39;49m\u001b[38;5;6mAuthor:     Sebastian Gehaxelt \u003cgithub@gehaxelt.in\u003e\u001b[K\r\u001b[3d\u001b[38;5;3mAuthorDate: Tue Jul 28 13:06:04 2015 +0200\u001b[K\r\u001b[4d\u001b[38;5;5mCommit:     Sebastian Gehaxelt \u003cgithub@gehaxelt.in\u003e\u001b[K\r\u001b[5d\u001b[38;5;3mCommitDate: Tue Jul 28 13:06:04 2015 +0200\u001b[K\u001b[7;5H\u001b[39;49mInitial commit\r\u001b[8d\u001b[38;5;1m---\u001b[K\r\u001b[9d\u001b[38;5;4m a\u001b[14X\u001b[9;17H\u001b[39;49m| 1 \u001b[38;5;2m+\u001b[K\r\u001b[10d\u001b[38;5;4m b\u001b[14X\u001b[10;17H\u001b[39;49m| 1 \u001b[38;5;2m+\u001b[K\r\u001b[11d\u001b[38;5;4m c\u001b[14X\u001b[11;17H\u001b[39;49m| 1 \u001b[38;5;2m+\u001b[K\r\u001b[12d\u001b[38;5;4m password       \u001b[39;49m| 1 \u001b[38;5;2m+\u001b[K\r\u001b[13d\u001b[38;5;4m secret/pwstore \u001b[39;49m| 1 \u001b[38;5;2m+\u001b[K\u001b[14;2H\u001b[39;49m5 files changed, 5 insertions(+)\r\u001b[16d\u001b[38;5;3mdiff --git a/a b/a\u001b[K\r\u001b[17dnew file mode 100644\u001b[K\r\u001b[18d\u001b[38;5;4mindex 0000000..7898192\u001b[K\r\u001b[19d\u001b[38;5;3m--- /dev/null\u001b[K\r\u001b[20d+++ b/a\u001b[K\r\u001b[21d\u001b[38;5;5m@@ -0,0 +1 @@\u001b[K\r\u001b[22d\u001b[38;5;2m+a\u001b[K\r\u001b[23d\u001b[38;5;3mdiff --git a/b b/b\u001b[K\r\u001b[24dnew file mode 100644\u001b[K\r\u001b[25d\u001b[38;5;4mindex 0000000..6178079\u001b[K\r\u001b[26d\u001b[38;5;3m--- /dev/null\u001b[K\r\u001b[27d+++ b/b\u001b[K\r\u001b[28d\u001b[38;5;5m@@ -0,0 +1 @@\u001b[K\r\u001b[29d\u001b[38;5;2m+b\u001b[K\r\u001b[30d\u001b[38;5;3mdiff --git a/c b/c\u001b[K\r\u001b[31dnew file mode 100644\u001b[K\r\u001b[32d\u001b[38;5;4mindex 0000000..f2ad6c7\u001b[K\r\u001b[33d\u001b[38;5;3m--- /dev/null\u001b[K\r\u001b[34d+++ b/c\u001b[K\r\u001b[35d\u001b[38;5;5m@@ -0,0 +1 @@\u001b[K\r\u001b[36d\u001b[38;5;2m+c\u001b[K\r\u001b[37d\u001b[38;5;3mdiff --git a/password b/password\u001b[K\r\u001b[38dnew file mode 100644\u001b[K\r\u001b[39d\u001b[38;5;4mindex 0000000..06bfde4\u001b[K\r\u001b[40d\u001b[38;5;3m--- /dev/null\u001b[K\r\u001b[41d+++ b/password\u001b[K\r\u001b[42d\u001b[38;5;5m@@ -0,0 +1 @@\u001b[K\r\u001b[43d\u001b[38;5;2m+key\u001b[K\r\u001b[44d\u001b[38;5;3mdiff --git a/secret/pwstore b/secret/pwstore\u001b[K\r\u001b[45dnew file mode 100644\u001b[K\r\u001b[46d\u001b[38;5;4mindex 0000000..f3097ab\u001b[K\r\u001b[47d\u001b[38;5;3m--- /dev/null\u001b[K\r\u001b[48d+++ b/secret/pwstore\u001b[K\r\u001b[49d\u001b[38;5;5m@@ -0,0 +1 @@\u001b[K\r\u001b[50d\u001b[38;5;2m+password\u001b[K\u001b[73d\u0008\u0008\u001b[;1m\u001b(B\u001b[38;5;7m\u001b[48;5;4m2f3f8f2bbc822a6e382c11907277d7d5270167fb - line 1 of 50\u001b[270G100\u001b[39;49m\u001b[m\u001b(B"
+    ],
+    [
+      2.576753,
+      "\u001b[H\u001b[38;5;4m2015-07-28 13:06\u001b[39;49m \u001b[38;5;2mSebastian Gehaxelt\u001b[39;49m \u001b[38;5;4mo\u001b[39;49m \u001b[;1m\u001b(B\u001b[38;5;6m[master]\u001b[m\u001b(B Another commit\u001b[K\r\u001b[2d\u001b[;1m\u001b(B\u001b[38;5;7m\u001b[48;5;2m2015-07-28 13:06 Sebastian Gehaxelt I Initial commit\u001b[m\u001b(B\u001b[38;5;7m\u001b[48;5;2m\u001b[K\r\u001b[3d\u001b[39;49m\u001b[m\u001b(B\u001b[K\u001b[4d\u001b[K\u001b[5d\u001b[K\u001b[7d\u001b[K\u001b[8d\u001b[K\u001b[9d\u001b[K\u001b[10d\u001b[K\u001b[11d\u001b[K\u001b[12d\u001b[K\u001b[13d\u001b[K\u001b[14d\u001b[K\u001b[16d\u001b[K\u001b[17d\u001b[K\u001b[18d\u001b[K\u001b[19d\u001b[K\u001b[20d\u001b[K\u001b[21d\u001b[K\u001b[22d\u001b[K\u001b[23d\u001b[K\u001b[24d\u001b[K\u001b[25d\u001b[K\u001b[26d\u001b[K\u001b[27d\u001b[K\u001b[28d\u001b[K\u001b[29d\u001b[K\u001b[30d\u001b[K\u001b[31d\u001b[K\u001b[32d\u001b[K\u001b[33d\u001b[K\u001b[34d\u001b[K\u001b[35d\u001b[K\u001b[36d\u001b[K\u001b[37d\u001b[K\u001b[38d\u001b[K\u001b[39d\u001b[K\u001b[40d\u001b[K\u001b[41d\u001b[K\u001b[42d\u001b[K\u001b[43d\u001b[K\u001b[44d\u001b[K\u001b[45d\u001b[K\u001b[46d\u001b[K\u001b[47d\u001b[K\u001b[48d\u001b[K\u001b[49d\u001b[K\u001b[50d\u001b[K\u001b[73;2H\u001b[;1m\u001b(B\u001b[38;5;7m\u001b[48;5;4mmain\u001b[73;51Hcommit 2 of 2\u001b[273G\u001b[39;49m\u001b[m\u001b(B"
+    ],
+    [
+      0.415944,
+      "\u001b[H\u001b[;1m\u001b(B\u001b[38;5;7m\u001b[48;5;2m2015-07-28 13:06 Sebastian Gehaxelt o [master] Another commit\u001b[m\u001b(B\u001b[38;5;7m\u001b[48;5;2m\u001b[K\r\u001b[2d\u001b[39;49m\u001b[38;5;4m2015-07-28 13:06\u001b[39;49m \u001b[38;5;2mSebastian Gehaxelt\u001b[39;49m \u001b[38;5;4mI\u001b[39;49m Initial commit\u001b[K\u001b[73;8H\u001b[;1m\u001b(B\u001b[38;5;7m\u001b[48;5;4m4db4b215ca5e1c6bcc8bdc5ad2d15d7c37091dd4\u001b[73;58H1\u001b[273G\u001b[39;49m\u001b[m\u001b(B"
+    ],
+    [
+      0.305207,
+      "\r\u001b[C\u001b[;1m\u001b(B\u001b[38;5;7m\u001b[48;5;4mdiff] 2f3f8f2bbc822a6e382c11907277d7d5270167fb\u001b[16X\u001b[270G  0\u001b[39;49m\u001b[m\u001b(B"
+    ],
+    [
+      0.004240,
+      "\u001b[H\u001b[;1m\u001b(B\u001b[38;5;7m\u001b[48;5;2mcommit 4db4b215ca5e1c6bcc8bdc5ad2d15d7c37091dd4\u001b[m\u001b(B\u001b[38;5;7m\u001b[48;5;2m\u001b[K\r\u001b[2d\u001b[39;49m\u001b[38;5;1mRefs: [master]\u001b[K\r\u001b[3d\u001b[38;5;6mAuthor:     Sebastian Gehaxelt \u003cgithub@gehaxelt.in\u003e\u001b[K\r\u001b[4d\u001b[38;5;3mAuthorDate: Tue Jul 28 13:06:24 2015 +0200\u001b[K\r\u001b[5d\u001b[38;5;5mCommit:     Sebastian Gehaxelt \u003cgithub@gehaxelt.in\u003e\u001b[K\r\u001b[6d\u001b[38;5;3mCommitDate: Tue Jul 28 13:06:24 2015 +0200\u001b[K\u001b[8;5H\u001b[39;49mAnother commit\r\u001b[9d\u001b[38;5;1m---\u001b[K\r\u001b[10d\u001b[38;5;4m secret/pws \u001b[39;49m| 1 \u001b[38;5;2m+\u001b[K\u001b[11;2H\u001b[39;49m1 file changed, 1 insertion(+)\r\u001b[13d\u001b[38;5;3mdiff --git a/secret/pws b/secret/pws\u001b[K\r\u001b[14dnew file mode 100644\u001b[K\r\u001b[15d\u001b[38;5;4mindex 0000000..1a4ccc7\u001b[K\r\u001b[16d\u001b[38;5;3m--- /dev/null\u001b[K\r\u001b[17d+++ b/secret/pws\u001b[K\r\u001b[18d\u001b[38;5;5m@@ -0,0 +1 @@\u001b[K\r\u001b[19d\u001b[38;5;2m+password2\u001b[K\u001b[73;8H\u001b[;1m\u001b(B\u001b[38;5;7m\u001b[48;5;4m4db4b215ca5e1c6bcc8bdc5ad2d15d7c37091dd4 - line 1 of 19\u001b[270G100\u001b[39;49m\u001b[m\u001b(B"
+    ],
+    [
+      1.299449,
+      "\u001b[H\u001b[;1m\u001b(B\u001b[38;5;7m\u001b[48;5;2m2015-07-28 13:06 Sebastian Gehaxelt o [master] Another commit\r\u001b[2d\u001b[m\u001b(B\u001b[38;5;4m2015-07-28 13:06\u001b[39;49m \u001b[38;5;2mSebastian Gehaxelt\u001b[39;49m \u001b[38;5;4mI\u001b[39;49m Initial commit\u001b[K\r\u001b[3d\u001b[m\u001b(B\u001b[K\u001b[4d\u001b[K\u001b[5d\u001b[K\u001b[6d\u001b[K\u001b[8d\u001b[K\u001b[9d\u001b[K\u001b[10d\u001b[K\u001b[11d\u001b[K\u001b[13d\u001b[K\u001b[14d\u001b[K\u001b[15d\u001b[K\u001b[16d\u001b[K\u001b[17d\u001b[K\u001b[18d\u001b[K\u001b[19d\u001b[K\u001b[73;2H\u001b[;1m\u001b(B\u001b[38;5;7m\u001b[48;5;4mmain\u001b[73;51Hcommit 1 of 2\u001b[273G\u001b[39;49m\u001b[m\u001b(B"
+    ],
+    [
+      0.455318,
+      "\u001b[74;1H\u001b[r\u001b[?1049l\r\u001b\u003e"
+    ],
+    [
+      0.000744,
+      "\u001b]0;gehaxelt@LagTop:/var/www/hackbed/testrepo\u0007[gehaxelt@LagTop testrepo]$ "
+    ],
+    [
+      1.686639,
+      "c"
+    ],
+    [
+      0.151898,
+      "u"
+    ],
+    [
+      0.160094,
+      "r"
+    ],
+    [
+      0.096008,
+      "l"
+    ],
+    [
+      0.143946,
+      " "
+    ],
+    [
+      0.080056,
+      "h"
+    ],
+    [
+      0.128001,
+      "t"
+    ],
+    [
+      0.135967,
+      "t"
+    ],
+    [
+      0.071908,
+      "p"
+    ],
+    [
+      0.288034,
+      ":"
+    ],
+    [
+      0.296035,
+      "/"
+    ],
+    [
+      0.143915,
+      "/"
+    ],
+    [
+      1.488011,
+      "h"
+    ],
+    [
+      0.095869,
+      "a"
+    ],
+    [
+      0.112135,
+      "c"
+    ],
+    [
+      0.055575,
+      "k"
+    ],
+    [
+      0.240216,
+      "b"
+    ],
+    [
+      0.104159,
+      "e"
+    ],
+    [
+      0.208105,
+      "d"
+    ],
+    [
+      0.063901,
+      "."
+    ],
+    [
+      0.232025,
+      "l"
+    ],
+    [
+      0.167820,
+      "o"
+    ],
+    [
+      0.080124,
+      "c"
+    ],
+    [
+      0.048257,
+      "a"
+    ],
+    [
+      0.079632,
+      "l"
+    ],
+    [
+      0.271615,
+      "/"
+    ],
+    [
+      0.440344,
+      "t"
+    ],
+    [
+      0.096110,
+      "e"
+    ],
+    [
+      0.064023,
+      "s"
+    ],
+    [
+      0.111924,
+      "t"
+    ],
+    [
+      0.256224,
+      "r"
+    ],
+    [
+      0.071681,
+      "e"
+    ],
+    [
+      0.080008,
+      "p"
+    ],
+    [
+      0.168486,
+      "o"
+    ],
+    [
+      0.247804,
+      "/"
+    ],
+    [
+      0.367877,
+      "."
+    ],
+    [
+      0.119741,
+      "g"
+    ],
+    [
+      0.104260,
+      "i"
+    ],
+    [
+      0.104211,
+      "t"
+    ],
+    [
+      0.223995,
+      "/"
+    ],
+    [
+      1.328576,
+      "\r\n"
+    ],
+    [
+      0.016615,
+      "\u003c?xml version=\"1.0\" encoding=\"UTF-8\"?\u003e\r\n\u003c!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\r\n"
+    ],
+    [
+      0.000022,
+      "  \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\"\u003e\r\n\u003chtml xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"\u003e\r\n\u003chead\u003e\r\n\u003ctitle\u003eAccess forbidden!\u003c/title\u003e\r\n"
+    ],
+    [
+      0.000042,
+      "\u003clink rev=\"made\" href=\"mailto:webmaster@dummy-host.example.com\" /\u003e\r\n\u003cstyle type=\"text/css\"\u003e\u003c!--/*--\u003e\u003c![CDATA[/*\u003e\u003c!--*/ \r\n    body { color: #000000; background-color: #FFFFFF; }\r\n    a:link { color: #0000CC; }\r\n    p, address {margin-left: 3em;}\r\n    span {font-size: smaller;}\r\n/*]]\u003e*/--\u003e\u003c/style\u003e\r\n\u003c/head\u003e\r\n\r\n\u003cbody\u003e\r\n"
+    ],
+    [
+      0.000013,
+      "\u003ch1\u003eAccess forbidden!\u003c/h1\u003e\r\n\u003cp\u003e\r\n"
+    ],
+    [
+      0.000025,
+      "\r\n\r\n"
+    ],
+    [
+      0.000024,
+      "  \r\n\r\n    You don't have permission to access the requested directory.\r\n    There is either no index document or the directory is read-protected.\r\n\r\n"
+    ],
+    [
+      0.000017,
+      "  \r\n\r\n"
+    ],
+    [
+      0.000009,
+      "\u003c/p\u003e\r\n\u003cp\u003e\r\n"
+    ],
+    [
+      0.001834,
+      "If you think this is a server error, please contact\r\nthe \u003ca href=\"mailto:webmaster@dummy-host.example.com\"\u003ewebmaster\u003c/a\u003e.\r\n\r\n\u003c/p\u003e\r\n\r\n\u003ch2\u003eError 403\u003c/h2\u003e\r\n\u003caddress\u003e\r\n  \u003ca href=\"/\"\u003ehackbed.local\u003c/a\u003e\u003cbr /\u003e\r\n  \u003cspan\u003eApache/2.4.16 (Unix) OpenSSL/1.0.2d PHP/5.6.11\u003c/span\u003e\r\n\u003c/address\u003e\r\n\u003c/body\u003e\r\n\u003c/html\u003e\r\n\r\n"
+    ],
+    [
+      0.001071,
+      "\u001b]0;gehaxelt@LagTop:/var/www/hackbed/testrepo\u0007[gehaxelt@LagTop testrepo]$ "
+    ],
+    [
+      1.459701,
+      "c"
+    ],
+    [
+      0.096026,
+      "d"
+    ],
+    [
+      0.184042,
+      " "
+    ],
+    [
+      0.136070,
+      "/"
+    ],
+    [
+      0.239975,
+      "t"
+    ],
+    [
+      0.095927,
+      "m"
+    ],
+    [
+      0.064077,
+      "p"
+    ],
+    [
+      0.096181,
+      "/"
+    ],
+    [
+      0.199897,
+      "d"
+    ],
+    [
+      0.095860,
+      "o"
+    ],
+    [
+      0.120232,
+      "wnloader/"
+    ],
+    [
+      0.720053,
+      "\r\n\u001b]0;gehaxelt@LagTop:/tmp/downloader\u0007[gehaxelt@LagTop downloader]$ "
+    ],
+    [
+      0.727720,
+      "l"
+    ],
+    [
+      0.047956,
+      "s"
+    ],
+    [
+      0.144319,
+      "\r\n"
+    ],
+    [
+      0.007862,
+      "insgesamt 4,0K\r\n"
+    ],
+    [
+      0.000043,
+      "drwxr-xr-x  2 gehaxelt users   60 28. Jul 13:04 \u001b[0m\u001b[36m.\u001b[0m\r\n"
+    ],
+    [
+      0.000073,
+      "drwxrwxrwt 21 root     root   520 28. Jul 13:07 \u001b[30;42m..\u001b[0m\r\n"
+    ],
+    [
+      0.000073,
+      "-rw-r--r--  1 gehaxelt users 2,7K 28. Jul 11:31 \u001b[32mgitdumper.sh\u001b[0m\r\n"
+    ],
+    [
+      0.001079,
+      "\u001b]0;gehaxelt@LagTop:/tmp/downloader\u0007[gehaxelt@LagTop downloader]$ "
+    ],
+    [
+      2.190640,
+      "b"
+    ],
+    [
+      0.064046,
+      "a"
+    ],
+    [
+      0.055963,
+      "s"
+    ],
+    [
+      0.087873,
+      "h"
+    ],
+    [
+      0.144186,
+      " "
+    ],
+    [
+      0.063965,
+      "g"
+    ],
+    [
+      0.087964,
+      "i"
+    ],
+    [
+      0.120282,
+      "tdumper.sh "
+    ],
+    [
+      0.743708,
+      "h"
+    ],
+    [
+      0.080219,
+      "t"
+    ],
+    [
+      0.143920,
+      "t"
+    ],
+    [
+      0.087843,
+      "p"
+    ],
+    [
+      0.232337,
+      ":"
+    ],
+    [
+      0.287689,
+      "/"
+    ],
+    [
+      0.128058,
+      "/"
+    ],
+    [
+      0.360068,
+      "h"
+    ],
+    [
+      0.119954,
+      "a"
+    ],
+    [
+      0.072044,
+      "c"
+    ],
+    [
+      0.095839,
+      "k"
+    ],
+    [
+      0.216087,
+      "b"
+    ],
+    [
+      0.096182,
+      "e"
+    ],
+    [
+      0.159846,
+      "d"
+    ],
+    [
+      0.079959,
+      "."
+    ],
+    [
+      0.168050,
+      "l"
+    ],
+    [
+      0.168027,
+      "o"
+    ],
+    [
+      0.087809,
+      "c"
+    ],
+    [
+      0.056120,
+      "a"
+    ],
+    [
+      0.071996,
+      "l"
+    ],
+    [
+      0.239775,
+      "/"
+    ],
+    [
+      0.456295,
+      "t"
+    ],
+    [
+      0.119909,
+      "e"
+    ],
+    [
+      0.040087,
+      "s"
+    ],
+    [
+      0.103934,
+      "t"
+    ],
+    [
+      0.208088,
+      "r"
+    ],
+    [
+      0.072061,
+      "e"
+    ],
+    [
+      0.095947,
+      "p"
+    ],
+    [
+      0.175973,
+      "o"
+    ],
+    [
+      0.304012,
+      "/"
+    ],
+    [
+      0.520017,
+      "."
+    ],
+    [
+      0.088006,
+      "g"
+    ],
+    [
+      0.128022,
+      "i"
+    ],
+    [
+      0.111896,
+      "t"
+    ],
+    [
+      0.207524,
+      "/"
+    ],
+    [
+      0.351870,
+      " "
+    ],
+    [
+      0.280701,
+      "c"
+    ],
+    [
+      0.151813,
+      "l"
+    ],
+    [
+      0.184125,
+      "o"
+    ],
+    [
+      0.103744,
+      "n"
+    ],
+    [
+      0.064202,
+      "e"
+    ],
+    [
+      1.064529,
+      "\r\n"
+    ],
+    [
+      0.009219,
+      "Destination folder does not exist\r\n"
+    ],
+    [
+      0.000019,
+      "Creating clone/.git/\r\n"
+    ],
+    [
+      0.030531,
+      "Downloaded: HEAD\r\n"
+    ],
+    [
+      0.039447,
+      "Downloaded: objects/info/packs\r\n"
+    ],
+    [
+      0.030132,
+      "Downloaded: description\r\n"
+    ],
+    [
+      0.027115,
+      "Downloaded: config\r\n"
+    ],
+    [
+      0.021008,
+      "Downloaded: COMMIT_EDITMSG\r\n"
+    ],
+    [
+      0.020271,
+      "Downloaded: index\r\n"
+    ],
+    [
+      0.019630,
+      "Downloaded: packed-refs\r\n"
+    ],
+    [
+      0.018866,
+      "Downloaded: refs/heads/master\r\n"
+    ],
+    [
+      0.019919,
+      "Downloaded: refs/remotes/origin/HEAD\r\n"
+    ],
+    [
+      0.019620,
+      "Downloaded: refs/stash\r\n"
+    ],
+    [
+      0.018782,
+      "Downloaded: logs/HEAD\r\n"
+    ],
+    [
+      0.018620,
+      "Downloaded: logs/refs/heads/master\r\n"
+    ],
+    [
+      0.019676,
+      "Downloaded: logs/refs/remotes/origin/HEAD\r\n"
+    ],
+    [
+      0.019288,
+      "Downloaded: info/refs\r\n"
+    ],
+    [
+      0.021001,
+      "Downloaded: info/exclude\r\n"
+    ],
+    [
+      0.019527,
+      "Downloaded: objects/4d/b4b215ca5e1c6bcc8bdc5ad2d15d7c37091dd4\r\n"
+    ],
+    [
+      0.030125,
+      "Downloaded: objects/00/00000000000000000000000000000000000000\r\n"
+    ],
+    [
+      0.018804,
+      "Downloaded: objects/2f/3f8f2bbc822a6e382c11907277d7d5270167fb\r\n"
+    ],
+    [
+      0.031908,
+      "Downloaded: objects/bc/b5ddcd60346cf79f89b672cf06778ed67a3d8f\r\n"
+    ],
+    [
+      0.027882,
+      "Downloaded: objects/5d/6b66a867f0d004a788b5df7415eb7d3fbc3e78\r\n"
+    ],
+    [
+      0.027700,
+      "Downloaded: objects/78/981922613b2afb6025042ff6bd878ac1994e85\r\n"
+    ],
+    [
+      0.028478,
+      "Downloaded: objects/61/780798228d17af2d34fce4cfbdf35556832472\r\n"
+    ],
+    [
+      0.027661,
+      "Downloaded: objects/f2/ad6c76f0115a6ba5b00456a849810e7ec0af20\r\n"
+    ],
+    [
+      0.030902,
+      "Downloaded: objects/06/bfde493370196db0ee5355ce9c073af4c3c272\r\n"
+    ],
+    [
+      0.030980,
+      "Downloaded: objects/42/66684ddc9deb55e7f3157469684331e8e1c645\r\n"
+    ],
+    [
+      0.029005,
+      "Downloaded: objects/2e/9457a015366d23744223a5e97fd5c4b6177c79\r\n"
+    ],
+    [
+      0.029259,
+      "Downloaded: objects/1a/4ccc77acdcdd08f765d9b333bb398c6e63ecbe\r\n"
+    ],
+    [
+      0.027480,
+      "Downloaded: objects/f3/097ab13082b70f67202aab7dd9d1b35b7ceac2\r\n"
+    ],
+    [
+      0.015187,
+      "\u001b]0;gehaxelt@LagTop:/tmp/downloader\u0007"
+    ],
+    [
+      0.000050,
+      "[gehaxelt@LagTop downloader]$ "
+    ],
+    [
+      0.807388,
+      "c"
+    ],
+    [
+      0.080163,
+      "d"
+    ],
+    [
+      0.175873,
+      " "
+    ],
+    [
+      0.623966,
+      "c"
+    ],
+    [
+      0.064167,
+      "l"
+    ],
+    [
+      0.152000,
+      "one/"
+    ],
+    [
+      0.624573,
+      "\r\n\u001b]0;gehaxelt@LagTop:/tmp/downloader/clone\u0007[gehaxelt@LagTop clone]$ "
+    ],
+    [
+      0.359437,
+      "l"
+    ],
+    [
+      0.103972,
+      "s"
+    ],
+    [
+      0.280478,
+      "\r\n"
+    ],
+    [
+      0.008538,
+      "insgesamt 0\r\n"
+    ],
+    [
+      0.000100,
+      "drwxr-xr-x 3 gehaxelt users  60 28. Jul 13:08 \u001b[0m\u001b[36m.\u001b[0m\r\n"
+    ],
+    [
+      0.000076,
+      "drwxr-xr-x 3 gehaxelt users  80 28. Jul 13:08 \u001b[36m..\u001b[0m\r\n"
+    ],
+    [
+      0.000047,
+      "drwxr-xr-x 6 gehaxelt users 240 28. Jul 13:08 \u001b[36m.git\u001b[0m\r\n"
+    ],
+    [
+      0.000934,
+      "\u001b]0;gehaxelt@LagTop:/tmp/downloader/clone\u0007[gehaxelt@LagTop clone]$ "
+    ],
+    [
+      1.293645,
+      "g"
+    ],
+    [
+      0.103986,
+      "i"
+    ],
+    [
+      0.128132,
+      "t"
+    ],
+    [
+      0.135952,
+      " "
+    ],
+    [
+      0.120139,
+      "s"
+    ],
+    [
+      0.063854,
+      "t"
+    ],
+    [
+      0.128146,
+      "a"
+    ],
+    [
+      0.096086,
+      "t"
+    ],
+    [
+      0.079849,
+      "u"
+    ],
+    [
+      0.120070,
+      "s"
+    ],
+    [
+      0.392449,
+      "\r\n"
+    ],
+    [
+      0.008849,
+      "Auf Branch master\r\n"
+    ],
+    [
+      0.000019,
+      "Änderungen, die nicht zum Commit vorgemerkt sind:\r\n"
+    ],
+    [
+      0.000059,
+      "  (benutzen Sie \"git add/rm \u003cDatei\u003e...\", um die Änderungen zum Commit vorzumerken)\r\n"
+    ],
+    [
+      0.000017,
+      "  (benutzen Sie \"git checkout -- \u003cDatei\u003e...\", um die Änderungen im Arbeitsverzeichnis zu verwerfen)\r\n\r\n"
+    ],
+    [
+      0.000109,
+      "\t\u001b[31mgelöscht:       a\u001b[m\r\n"
+    ],
+    [
+      0.000045,
+      "\t\u001b[31mgelöscht:       b\u001b[m\r\n"
+    ],
+    [
+      0.000011,
+      "\t\u001b[31mgelöscht:       c\u001b[m\r\n"
+    ],
+    [
+      0.000037,
+      "\t\u001b[31mgelöscht:       password\u001b[m\r\n"
+    ],
+    [
+      0.000035,
+      "\t\u001b[31mgelöscht:       secret/pws\u001b[m\r\n"
+    ],
+    [
+      0.000035,
+      "\t\u001b[31mgelöscht:       secret/pwstore\u001b[m\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "keine Änderungen zum Commit vorgemerkt (benutzen Sie \"git add\" und/oder \"git commit -a\")\r\n"
+    ],
+    [
+      0.001294,
+      "\u001b]0;gehaxelt@LagTop:/tmp/downloader/clone\u0007[gehaxelt@LagTop clone]$ "
+    ],
+    [
+      1.196902,
+      "g"
+    ],
+    [
+      0.120108,
+      "i"
+    ],
+    [
+      0.119983,
+      "t"
+    ],
+    [
+      0.151944,
+      " "
+    ],
+    [
+      0.175842,
+      "c"
+    ],
+    [
+      0.104132,
+      "h"
+    ],
+    [
+      0.103987,
+      "e"
+    ],
+    [
+      0.167886,
+      "c"
+    ],
+    [
+      0.047963,
+      "k"
+    ],
+    [
+      0.184243,
+      "o"
+    ],
+    [
+      0.079751,
+      "u"
+    ],
+    [
+      0.056069,
+      "t"
+    ],
+    [
+      0.136146,
+      " "
+    ],
+    [
+      0.112073,
+      "-"
+    ],
+    [
+      0.159916,
+      "-"
+    ],
+    [
+      0.400162,
+      " "
+    ],
+    [
+      0.135951,
+      "."
+    ],
+    [
+      0.167852,
+      " "
+    ],
+    [
+      0.752496,
+      "\r\n"
+    ],
+    [
+      0.005524,
+      "\u001b]0;gehaxelt@LagTop:/tmp/downloader/clone\u0007[gehaxelt@LagTop clone]$ "
+    ],
+    [
+      0.394022,
+      "l"
+    ],
+    [
+      0.088001,
+      "s"
+    ],
+    [
+      0.472331,
+      "\r\n"
+    ],
+    [
+      0.008871,
+      "insgesamt 16K\r\n"
+    ],
+    [
+      0.000048,
+      "drwxr-xr-x 4 gehaxelt users 160 28. Jul 13:08 \u001b[0m\u001b[36m.\u001b[0m\r\n"
+    ],
+    [
+      0.000042,
+      "drwxr-xr-x 3 gehaxelt users  80 28. Jul 13:08 \u001b[36m..\u001b[0m\r\n"
+    ],
+    [
+      0.000045,
+      "-rw-r--r-- 1 gehaxelt users   2 28. Jul 13:08 \u001b[00ma\u001b[0m\r\n"
+    ],
+    [
+      0.000045,
+      "-rw-r--r-- 1 gehaxelt users   2 28. Jul 13:08 \u001b[00mb\u001b[0m\r\n"
+    ],
+    [
+      0.000038,
+      "-rw-r--r-- 1 gehaxelt users   2 28. Jul 13:08 \u001b[00mc\u001b[0m\r\n"
+    ],
+    [
+      0.000069,
+      "drwxr-xr-x 6 gehaxelt users 240 28. Jul 13:08 \u001b[36m.git\u001b[0m\r\n"
+    ],
+    [
+      0.000076,
+      "-rw-r--r-- 1 gehaxelt users   4 28. Jul 13:08 \u001b[00mpassword\u001b[0m\r\n"
+    ],
+    [
+      0.000079,
+      "drwxr-xr-x 2 gehaxelt users  80 28. Jul 13:08 \u001b[36msecret\u001b[0m\r\n"
+    ],
+    [
+      0.000961,
+      "\u001b]0;gehaxelt@LagTop:/tmp/downloader/clone\u0007[gehaxelt@LagTop clone]$ "
+    ],
+    [
+      2.485389,
+      "c"
+    ],
+    [
+      0.215910,
+      "a"
+    ],
+    [
+      0.072037,
+      "t"
+    ],
+    [
+      0.135995,
+      " "
+    ],
+    [
+      0.168144,
+      "a"
+    ],
+    [
+      0.176036,
+      " "
+    ],
+    [
+      0.191956,
+      "b"
+    ],
+    [
+      0.119997,
+      " "
+    ],
+    [
+      0.232023,
+      "c"
+    ],
+    [
+      0.216008,
+      " "
+    ],
+    [
+      0.799877,
+      "p"
+    ],
+    [
+      0.088097,
+      "a"
+    ],
+    [
+      0.056025,
+      "s"
+    ],
+    [
+      0.200079,
+      "sword "
+    ],
+    [
+      0.951871,
+      "s"
+    ],
+    [
+      0.071271,
+      "e"
+    ],
+    [
+      0.192522,
+      "cret/"
+    ],
+    [
+      0.336153,
+      "p"
+    ],
+    [
+      0.104201,
+      "\u0007ws"
+    ],
+    [
+      0.543808,
+      " "
+    ],
+    [
+      0.288051,
+      "s"
+    ],
+    [
+      0.080022,
+      "e"
+    ],
+    [
+      0.144292,
+      "cret/"
+    ],
+    [
+      0.527757,
+      "p"
+    ],
+    [
+      0.047989,
+      "\u0007ws"
+    ],
+    [
+      0.631959,
+      "t"
+    ],
+    [
+      0.128152,
+      "ore "
+    ],
+    [
+      0.776266,
+      "\r\n"
+    ],
+    [
+      0.001520,
+      "a\r\n"
+    ],
+    [
+      0.000055,
+      "b\r\n"
+    ],
+    [
+      0.000038,
+      "c\r\n"
+    ],
+    [
+      0.000050,
+      "key\r\n"
+    ],
+    [
+      0.000037,
+      "password2\r\n"
+    ],
+    [
+      0.000033,
+      "password\r\n"
+    ],
+    [
+      0.000836,
+      "\u001b]0;gehaxelt@LagTop:/tmp/downloader/clone\u0007[gehaxelt@LagTop clone]$ "
+    ],
+    [
+      1.645155,
+      "l"
+    ],
+    [
+      0.063917,
+      "s"
+    ],
+    [
+      0.127954,
+      " "
+    ],
+    [
+      0.079962,
+      "."
+    ],
+    [
+      0.160043,
+      "g"
+    ],
+    [
+      0.088079,
+      "i"
+    ],
+    [
+      0.152094,
+      "t/"
+    ],
+    [
+      0.720215,
+      "\r\n"
+    ],
+    [
+      0.007146,
+      "insgesamt 24K\r\n"
+    ],
+    [
+      0.000113,
+      "drwxr-xr-x  6 gehaxelt users  240 28. Jul 13:08 \u001b[0m\u001b[36m.\u001b[0m\r\n"
+    ],
+    [
+      0.000039,
+      "drwxr-xr-x  4 gehaxelt users  160 28. Jul 13:08 \u001b[36m..\u001b[0m\r\n"
+    ],
+    [
+      0.000062,
+      "-rw-r--r--  1 gehaxelt users   15 28. Jul 13:08 \u001b[00mCOMMIT_EDITMSG\u001b[0m\r\n"
+    ],
+    [
+      0.000058,
+      "-rw-r--r--  1 gehaxelt users   92 28. Jul 13:08 \u001b[00mconfig\u001b[0m\r\n"
+    ],
+    [
+      0.000080,
+      "-rw-r--r--  1 gehaxelt users   73 28. Jul 13:08 \u001b[00mdescription\u001b[0m\r\n"
+    ],
+    [
+      0.000053,
+      "-rw-r--r--  1 gehaxelt users   23 28. Jul 13:08 \u001b[00mHEAD\u001b[0m\r\n"
+    ],
+    [
+      0.000053,
+      "-rw-r--r--  1 gehaxelt users  520 28. Jul 13:08 \u001b[00mindex\u001b[0m\r\n"
+    ],
+    [
+      0.000037,
+      "drwxr-xr-x  2 gehaxelt users   80 28. Jul 13:08 \u001b[36minfo\u001b[0m\r\n"
+    ],
+    [
+      0.000039,
+      "drwxr-xr-x  3 gehaxelt users   80 28. Jul 13:08 \u001b[36mlogs\u001b[0m\r\n"
+    ],
+    [
+      0.000038,
+      "drwxr-xr-x 16 gehaxelt users  320 28. Jul 13:08 \u001b[36mobjects\u001b[0m\r\n"
+    ],
+    [
+      0.000053,
+      "-rw-r--r--  1 gehaxelt users 1,1K 28. Jul 13:08 \u001b[00mpacked-refs\u001b[0m\r\n"
+    ],
+    [
+      0.000039,
+      "drwxr-xr-x  4 gehaxelt users  100 28. Jul 13:08 \u001b[36mrefs\u001b[0m\r\n"
+    ],
+    [
+      0.000786,
+      "\u001b]0;gehaxelt@LagTop:/tmp/downloader/clone\u0007[gehaxelt@LagTop clone]$ "
+    ],
+    [
+      2.031046,
+      "e"
+    ],
+    [
+      0.208032,
+      "x"
+    ],
+    [
+      0.071977,
+      "i"
+    ],
+    [
+      0.127952,
+      "t"
+    ],
+    [
+      0.720831,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
